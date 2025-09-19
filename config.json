@@ -1,0 +1,30 @@
+{
+    "active_symbols": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "XRP/USDT",
+        "BNB/USDT"
+    ],
+    "entry_timeframe": "5m",
+    "higher_timeframes": [
+        "30m",
+        "1h",
+        "4h"
+    ],
+    "max_open_trades": 2,
+    "rsi_period": 14,
+    "rsi_oversold": 20,
+    "rsi_overbought": 70,
+    "volume_avg_period": 20,
+    "volume_factor": 1.5,
+    "ema_short_period": 50,
+    "ema_long_period": 200,
+    "ema_entry_period": 20,
+    "atr_period": 14,
+    "atr_stop_loss_factor": 2.5,
+    "atr_take_profit_factor": 5,
+    "account_size": 10000.0,
+    "risk_3_pct_amount": 300.0,
+    "risk_5_pct_amount": 500.0,
+    "atr_max_pct_filter": 0.03
+}

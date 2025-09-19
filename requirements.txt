@@ -1,0 +1,8 @@
+pandas
+ccxt
+TA-Lib
+python-telegram-bot
+apscheduler
+python-dotenv
+fastapi
+uvicorn

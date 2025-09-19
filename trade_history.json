@@ -1,0 +1,31 @@
+[
+    {
+        "time": "2025-09-19 15:38",
+        "asset": "BTC/USDT",
+        "type": "Long",
+        "entry_price": "116,945.50",
+        "sl_price": "114,021.86"
+    },
+    {
+        "time": "2025-09-19 14:59",
+        "asset": "BTC/USDT",
+        "type": "Long",
+        "entry_price": "116,860.40",
+        "sl_price": "113,938.89"
+    },
+    {
+        "time": "2025-09-19 14:10",
+        "asset": "BTC/USDT",
+        "type": "Long",
+        "entry_price": "68,282.62",
+        "sl_price": "66,575.55"
+    },
+    {
+        "date": "2025-09-17",
+        "time": "20:45",
+        "asset": "BTC/USDT",
+        "price": "63,596.94",
+        "type": "Long",
+        "mode": "Live"
+    }
+]
